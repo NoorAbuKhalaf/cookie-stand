@@ -1,7 +1,46 @@
-* {
-  font-family: 'Ranchers', cursive;
-  }
+header {
+  padding: 50px;
+  text-align: center;
+  background: #ec946b;
+  color: white;
+  font-size: 50px;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Train One', cursive;
+}
 
-  li {
-    color: rgb(175, 2, 2);
-  }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 20px;
+}
+
+section
+{
+  font-size: 25px;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  margin-top: 15px;
+  margin-left: 70px;
+  margin-right: 70px;
+  margin-bottom: 15px;
+  background-color: rgb(253, 191, 109);
+  font-family:'Abel', sans-serif;
+  
+}
+
+
+
+
+
+
+
+footer{
+  padding: 35px;
+  text-align: center;
+  background:  #ec946b;
+  color: white;
+  font-size: 25px;
+  font-family: 'Train One', cursive;
+}
